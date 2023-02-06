@@ -30,6 +30,10 @@ const GlobalStyle = createGlobalStyle`
     }
 
     :root{
+      --primary-color:#3988d2;
+      --primary-dark-color:#2464a3;
+      --secondary-color:#6ae395;
+
       --x1: 0.4rem;
       --x2: 0.8rem;
       --x3: 1.2rem;
